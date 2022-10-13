@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <unlisted.h>
 
 /**
- *  * main- Entry point
- *   * @void: parameter
- *    * Return: 1 (success)
+ * main- Entry point
+ * @void: parameter
+ * Return: 1 (success)
 */
 
 int main(void)
